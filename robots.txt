@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://jdkid15.github.io/namdemotmdt/sitemap.xml
